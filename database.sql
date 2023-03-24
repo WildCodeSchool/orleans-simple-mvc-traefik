@@ -37,7 +37,7 @@ CREATE TABLE `item` (
 
 INSERT INTO `item` (`id`, `title`) VALUES
 (1, 'Stuff'),
-(2, 'Doodads');
+(2, 'Doodads'),
 (3, 'Pouet');
 
 --
